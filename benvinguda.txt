@@ -4,3 +4,4 @@ toni
 (B) Modificació 01 Main Toni
 (D) Modificació 02 Main Toni
 (C) Benvinguda a la branca 02 Toni
+(F) Afegim imatge a branca 02
