@@ -5,3 +5,5 @@ toni
 (D) Modificació 02 Main Toni
 (C) Benvinguda a la branca 02 Toni
 (F) Afegim imatge a branca 02
+(C) Benvinguda a la branca 02 Toni
+(F) Afegim imatge a branca 02
