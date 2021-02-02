@@ -1,3 +1,5 @@
 toni
+(A) Benvinguda a la branca 01 Toni
+(E)Afegim imatge a branca01
 (B) Modificació 01 Main Toni
 (D) Modificació 02 Main Toni
